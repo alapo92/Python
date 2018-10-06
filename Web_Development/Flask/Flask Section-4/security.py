@@ -1,7 +1,7 @@
 # importing werkzeug to get the safe str cmp
 # which is a safe string compare function that deals with all sorts of encoding issues
 from werkzeug.security import safe_str_cmp
-from user import User
+from resources.user import User
 
 
 def authenticate(username, password):
