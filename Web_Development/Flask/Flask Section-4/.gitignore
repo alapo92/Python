@@ -1,2 +1,7 @@
 .idea/workspace.xml
 data.db
+*.pyc
+.idea/inspectionProfiles/
+static/
+templates/
+venv/Include/
