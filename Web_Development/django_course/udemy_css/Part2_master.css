@@ -1,0 +1,19 @@
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkvDQvN-PJ146en1YgFpTi3OdfWuO8eTpVqyLiUFz_ukx5mQ4);
+    background-repeat: no-repeat;
+}
+
+div{
+    background: cadetblue;
+    border-color: coral;
+    border-width: 5px;
+    border-style: double;
+    color: mediumpurple;
+}
+p{
+    color: white;
+}
+span {
+    background-color: goldenrod;
+    color: black;
+}

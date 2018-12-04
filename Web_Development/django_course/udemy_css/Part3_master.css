@@ -1,0 +1,29 @@
+.firstDiv{
+    color: red;
+}
+
+.secondDiv{
+    color: blue;
+}
+
+#singledout{
+    color: goldenrod;
+    text-decoration: underline;
+}
+/*This selector will affect all objects, except for ID's*/
+/**{*/
+    /*color: black;*/
+/*}*/
+
+h3 + ul{
+    border: 4px dotted plum;
+}
+
+li a{
+    color: crimson;
+}
+
+li a[href="www.google.com"]{
+    color: #00a040;
+    border: 5px solid orange;
+}
